@@ -6,5 +6,4 @@ const router = express.Router();
 // Route to create cash entries
 router.post('/cash', createCash);
 
-
 export default router;  
